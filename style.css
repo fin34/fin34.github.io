@@ -22,7 +22,10 @@ body {
 *,
 *::before,
 *::after {
-    box-sizing: inherit; }
+    box-sizing: inherit;
+    margin: 5px;
+    text-align: center;
+}
 
 .crud {
     margin-bottom: 20px; }
