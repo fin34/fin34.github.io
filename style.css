@@ -46,9 +46,9 @@ body {
 }
 
 .footer {
-    position:absolute;
-    bottom:0;
-    width:100%;
+    position: static;
+    bottom: 0;
+    width: 100%;
     background-color: #ffffff;
     box-shadow: 3px 3px 10px black, white -3px 3px 10px, 3px -3px 10px;
     text-align: center;
