@@ -24,7 +24,6 @@ body {
 *::after {
     box-sizing: inherit;
     margin: 5px;
-    text-align: center;
 }
 
 .crud {
