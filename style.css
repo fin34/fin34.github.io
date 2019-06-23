@@ -51,7 +51,6 @@ body {
     width: 100%;
     background-color: #ffffff;
     box-shadow: 3px 3px 10px black, white -3px 3px 10px, 3px -3px 10px;
-    text-align: center;
 }
 
 @media (min-width: 768px) {
@@ -69,7 +68,7 @@ body {
     margin: 20px auto;
     text-align: center;
     font-size: 30px;
-    font-weight: 400; }
+    font-weight: 10; }
 
 .datatable__row {
     background-color: #ffffff;
